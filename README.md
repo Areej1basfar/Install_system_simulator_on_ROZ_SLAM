@@ -36,8 +36,7 @@ Finally, the result.
 <br>
 ![262514935-1b556ff3-0c2a-411f-8c41-dd3573ba9681](https://github.com/Areej1basfar/Install_system_simulator_on_ROZ_SLAM/assets/121516453/2213b597-b601-4b5e-a0b1-5fa76366dcfb)
 <br>
-![262514935-1b556ff3-0c2a-411f-8c41-dd3573ba9681](https://github.com/Areej1basfar/Install_system_simulator_on_ROZ_SLAM/assets/121516453/052f6314-5afe-4da9-b7fe-bd4b96d7f9f3)
-<br>
+
 ![262514944-5050d948-a458-4779-8478-17dcb0b2afd5](https://github.com/Areej1basfar/Install_system_simulator_on_ROZ_SLAM/assets/121516453/cf5a2040-8bc1-499e-8aa8-f8d6925e2b9b)
 
 
