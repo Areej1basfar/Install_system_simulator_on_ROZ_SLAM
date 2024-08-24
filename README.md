@@ -1,4 +1,4 @@
-# Install system simulator on ROZ "SLAM"
+# Install system simulator on ROZ "SLAM" <Smart Methods training 2023>.
 #### how an AI agent recognizes environments and their paths using simultaneous localization and mapping (SLAM).<br>
 #### This task aims to use Turtlebot3 with the SLAM approach to create and save a map.<br><br>
 the robot model TurtleBot3 Burger<br>
